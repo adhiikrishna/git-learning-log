@@ -10,4 +10,6 @@ I'm learning Git and version control to track my work.
 
 ## What I learned today?
 - Understand how git tracks chnages overtime.
+- Branches let you experiment without affecting the main project.
+- You can merge branches back together when ready.
 
